@@ -32,3 +32,6 @@ We used [The Simpsons Characters Data](https://www.kaggle.com/alexattia/the-simp
 
 #### Model Training
 #### Use a Pre-trained Model
+
+## Acknowledgements
+Our implementation is based on [SinGAN](https://github.com/tamarott/SinGAN)
